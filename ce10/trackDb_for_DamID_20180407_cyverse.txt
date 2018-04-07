@@ -11,9 +11,25 @@ viewLimits 0:500
 priority 1
 
 track HS1
-bigDataUrl https://de.cyverse.org/dl/d/989E694D-9DA0-4C88-838D-2D45E1C976E6/HS_1_control_subtracted.bw
+bigDataUrl https://de.cyverse.org/anon-files/iplant/home/sijungyun/DamID_UCSC_hub2/HS_1_control_subtracted.bw
 shortLabel HS1
 longLabel Heat Shock, L2/L3, Replicate 1
 type bigWig
 parent HS_Pipeline2
 color 238,130,238
+
+track HS2
+bigDataUrl https://de.cyverse.org/anon-files/iplant/home/sijungyun/DamID_UCSC_hub2/HS_2_control_subtracted.bw
+shortLabel HS2
+longLabel Heat Shock, L2/L3, Replicate 2
+type bigWig
+parent HS
+color 250,128,114
+
+track HS3
+bigDataUrl https://de.cyverse.org/anon-files/iplant/home/sijungyun/DamID_UCSC_hub2/HS_3_control_subtracted.bw
+shortLabel HS3
+longLabel Heat Shock, L2/L3, Replicate 3
+type bigWig
+parent HS
+color 255,99,71
