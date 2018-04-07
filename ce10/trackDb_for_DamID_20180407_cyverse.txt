@@ -1,7 +1,7 @@
 track HS_Pipeline2
 type bigWig
 container multiWig
-shortLabel HS
+shortLabel HS_Pipeline2
 longLabel Heat Shock, L2/L3, red's: lin-29 DamID, blue's: control
 visibility full
 aggregate transparentOverlay
