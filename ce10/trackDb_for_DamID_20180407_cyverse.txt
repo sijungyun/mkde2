@@ -23,7 +23,7 @@ bigDataUrl https://de.cyverse.org/anon-files/iplant/home/sijungyun/DamID_UCSC_hu
 shortLabel HS2
 longLabel Heat Shock, L2/L3, Replicate 2
 type bigWig
-parent HS
+parent HS_Pipeline2
 color 250,128,114
 
 track HS3
@@ -31,5 +31,5 @@ bigDataUrl https://de.cyverse.org/anon-files/iplant/home/sijungyun/DamID_UCSC_hu
 shortLabel HS3
 longLabel Heat Shock, L2/L3, Replicate 3
 type bigWig
-parent HS
+parent HS_Pipeline2
 color 255,99,71
