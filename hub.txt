@@ -1,0 +1,5 @@
+hub DamID2
+shortLabel DamID2
+longLabel DamID2
+genomesFile genomes.txt
+email sijungyun@gmail.com
