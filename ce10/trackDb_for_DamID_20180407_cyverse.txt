@@ -7,7 +7,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:300:8
-viewLimits 0:500
+viewLimits -2:5
 priority 1
 
 track HS1
