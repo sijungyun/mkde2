@@ -1,0 +1,19 @@
+track HS_Pipeline2
+type bigWig
+container multiWig
+shortLabel HS
+longLabel Heat Shock, L2/L3, red's: lin-29 DamID, blue's: control
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:300:8
+viewLimits 0:500
+priority 1
+
+track HS1
+bigDataUrl https://de.cyverse.org/dl/d/989E694D-9DA0-4C88-838D-2D45E1C976E6/HS_1_control_subtracted.bw
+shortLabel HS1
+longLabel Heat Shock, L2/L3, Replicate 1
+type bigWig
+parent HS_Pipeline2
+color 238,130,238
