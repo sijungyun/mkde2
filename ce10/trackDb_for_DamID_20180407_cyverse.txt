@@ -71,3 +71,13 @@ type bigWig
 parent HS_Pipeline2_Peaks
 color 238,130,238
 
+
+track GATC_sites_1
+bigDataUrl https://de.cyverse.org/anon-files/iplant/home/sijungyun/DamID_UCSC_hub/bigbed/GATC_sites.ce10.bb
+type bigBed
+visibility dense
+shortLabel GATC_sites
+longLabel GATC_sites
+maxHeightPixels 500:150:8
+viewLimits 0:500
+priority 3
