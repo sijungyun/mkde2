@@ -81,3 +81,13 @@ longLabel GATC_sites_2
 maxHeightPixels 500:150:8
 viewLimits 0:500
 priority 3
+
+track GATC_interval_bed_longer_than_4000_bp
+bigDataUrl https://de.cyverse.org/anon-files/iplant/home/sijungyun/DamID_UCSC_hub2/gatc_interval_longer_than_4kb.ce10.GATC.bb
+type bigBed
+visibility dense
+shortLabel GATC_interval_bed_longer_than_4000_bp
+longLabel GATC_interval_bed_longer_than_4000_bp
+maxHeightPixels 500:150:8
+viewLimits 0:500
+priority 4
